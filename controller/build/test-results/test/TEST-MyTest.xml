@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-12T17:10:17" hostname="LAPTOP-88TNBPF5" time="0.235">
+  <properties/>
+  <testcase name="booksArrangedInCellsInOrderTheyReturnedBookFactory" classname="MyTest" time="0.215"/>
+  <testcase name="theCapacityLessThanNumberOfBooks" classname="MyTest" time="0.005"/>
+  <testcase name="exactlyBookThatInThisCell" classname="MyTest" time="0.006"/>
+  <testcase name="whenAddingBookThereAreNoFreeCells" classname="MyTest" time="0.004"/>
+  <testcase name="takeBookFromEmptyCell" classname="MyTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
